@@ -8,4 +8,5 @@
 
 과제B 
 실행모습
+
 ![과제B](https://github.com/Junparkk/prototype/assets/82128525/ae04d31d-c46c-4186-bca6-efbae060503c)
